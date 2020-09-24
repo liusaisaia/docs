@@ -1,0 +1,22 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.5.0",
+    "vuepress": "1.4.1",
+    "vuepress-theme-reco": "1.4.5"
+  },
+  "description": "my-blog",
+  "dependencies": {
+    "@vssue/api-github-v4": "^1.4.0",
+    "@vssue/vuepress-plugin-vssue": "^1.4.5",
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5"
+  }
+}
