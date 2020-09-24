@@ -1,5 +1,5 @@
 {
-  "name": "my-blog",
+  "name": "vuepressBlog",
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
@@ -13,7 +13,7 @@
     "vuepress": "1.4.1",
     "vuepress-theme-reco": "1.4.5"
   },
-  "description": "my-blog",
+  "description": "vuepressBlog",
   "dependencies": {
     "@vssue/api-github-v4": "^1.4.0",
     "@vssue/vuepress-plugin-vssue": "^1.4.5",
