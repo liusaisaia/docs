@@ -19,6 +19,7 @@ module.exports = {
       },
     ],
   ],
+  base: '/docs/',
   theme: "reco",
   // 主题配置文件
   themeConfig: {
